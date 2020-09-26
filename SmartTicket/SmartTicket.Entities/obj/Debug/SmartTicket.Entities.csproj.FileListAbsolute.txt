@@ -1,0 +1,65 @@
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csprojAssemblyReference.cache
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\source\repos\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\TR\Desktop\New Compressed (zipped) Folder\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\TR\Desktop\SmartTicket\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+D:\SmartTicket\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csprojAssemblyReference.cache
+D:\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+D:\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+D:\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+D:\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb

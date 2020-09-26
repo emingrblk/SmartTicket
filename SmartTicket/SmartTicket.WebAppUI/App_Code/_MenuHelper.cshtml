@@ -1,0 +1,73 @@
+﻿@{
+    Layout = null;
+}
+
+@using SmartTicket.Entities
+
+@helper CreateMenu(IEnumerable<EndlessCategory> rootCats)  //parametre dizi: veritabanından çekilen, parent ı olmayan (root) kategoriler.
+{
+    foreach (EndlessCategory rootCat in rootCats.OrderBy(x => x.OrderNo))
+    {
+        if (rootCat.EndlessCategories.Count() > 0)
+        {
+            <li class=" nav-item dropdown" data-order-no="@rootCat.OrderNo" data-id="@rootCat.Id">
+                <a class="nav-link dropdown-toggle" role="button"
+                   data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false"
+                   @*href="@Url.Action(rootCat.ActionName,rootCat.ControllerName)@rootCat.QueryStrings">*@
+                   href="~/@rootCat.ActionName/@rootCat.ControllerName">
+
+                    @rootCat.Name
+
+                </a>
+                @if (rootCat.EndlessCategories.Count() > 0)
+                {
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @CreateSubMenuItems(rootCat)
+                    </ul>
+                }
+            </li>
+        }
+        else
+        {
+            <li class="nav-item" data-order-no="@rootCat.OrderNo" data-id="@rootCat.Id">
+                <a class="nav-link"
+                   @*href="@Url.Action(rootCat.ActionName,rootCat.ControllerName)@rootCat.QueryStrings"*@>
+                    @rootCat.Name
+                </a>
+            </li>
+        }
+    }
+}
+
+
+@helper CreateSubMenuItems(EndlessCategory cat)
+{
+    foreach (EndlessCategory subCat in cat.EndlessCategories.OrderBy(x => x.OrderNo))
+    {
+        if (subCat.EndlessCategories.Count() > 0)
+        {
+            <li class="dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" data-order-no="@subCat.OrderNo" data-id="@subCat.Id"
+                   @*href="@Url.Action(subCat.ActionName,subCat.ControllerName)@subCat.QueryStrings"*@>
+                    @subCat.Name
+                </a>
+                @if (subCat.EndlessCategories.Count() > 0)
+                {
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @CreateSubMenuItems(subCat)
+                    </ul>
+                }
+            </li>
+        }
+        else
+        {
+            <li class="dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" data-order-no="@subCat.OrderNo" data-id="@subCat.Id"
+                   @*href="@Url.Action(subCat.ActionName,subCat.ControllerName)@subCat.QueryStrings"*@>
+                    @subCat.Name
+                </a>
+            </li>
+        }
+    }
+}

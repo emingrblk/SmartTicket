@@ -1,0 +1,11 @@
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.pdb
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.dll
+C:\Users\Section2\Desktop\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.pdb
+D:\SmartTicket\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.dll
+D:\SmartTicket\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.pdb
+D:\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.csprojAssemblyReference.cache
+D:\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.csproj.CoreCompileInputs.cache
+D:\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.dll
+D:\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.pdb
